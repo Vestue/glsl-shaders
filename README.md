@@ -1,11 +1,11 @@
 # glsl-shaders
 
-Experimental GLSL shaders created using https://www.shadertoy.com
+Experimental GLSL shaders created using https://www.shadertoy.com. The code examples in /shaders/ can be run by coping the code and compiling it in a new [Shadertoy](https://www.shadertoy.com) environment.
 
-The color palettes are created using [dev.thi.ng gradients](https://github.com/thi-ng/cgg)
+The color palettes are created using trigonometry based gradients with http://dev.thi.ng/gradients/. This can also be built locally through [their github repository](https://github.com/thi-ng/cgg).
 
 ## EPILEPSY WARNING :warning:
-The videos below contain strobing patterns that may trigger seizures for people with photosensitive epilepsy. Please be cautious before pressing play on any videos if you have a history of epilepsy or sensitivity to flashing lights. The code in /shaders/ will produce a strobing pattern once compiled.
+The videos below contain strobing patterns that may trigger seizures for people with photosensitive epilepsy. Please be cautious before pressing play on any videos if you have a history of epilepsy or sensitivity to flashing lights. The code in /shaders/ will produce a strobing pattern once compiled and executed.
 
 ## Examples
 ### Breathing fractals
